@@ -9,7 +9,8 @@
 1. 초대 후 우측 상단의 `inbox📥`를 통해 **`accept invitation`** 클릭
 2. 좌측 메뉴에서 본 리포지토리가 생긴 것을 확인할 수 있다.
 3. 우측 상단에 **`fork`** 를 클릭<br/>
-   <img src="https://github.com/user-attachments/assets/55c1663c-e891-4c03-b4ef-4b8eb7cde58e" width="300">
+   <img width="198" alt="image" src="https://github.com/user-attachments/assets/c6b68ce5-4380-4335-b3fe-ac36bb72183b">
+
 
 4. 우측 하단의 **`create fork`** 를 클릭
 5. 자기 레포지토리가 생성된 것을 확인할 수 있다.
@@ -18,30 +19,35 @@
 **A) 자기 repository에 코드 업로드**
 
 1. 우측 상단에 `+` 버튼을 통해 **`create new file`** 클릭  
-   <img src="https://github.com/user-attachments/assets/14022743-52da-4f87-8f10-5a6b6ee47259" width="200">
+   <img width="206" alt="image" src="https://github.com/user-attachments/assets/1d2574ff-61c3-49d8-9f07-de234a961ab8">
+
 
 2. 우측 상단의 경로를 **`"/2024_2_C_study/code/{자기이름}/{주차}/{파일 이름}"`** 에 맞춰 작성
 3. 아래 Edit에 코드 복사
 4. **`commit changes`** 클릭  
-   <img src="https://github.com/user-attachments/assets/5972dbe3-8607-48f3-911e-901ec3115c3f">
+   <img width="1226" alt="image" src="https://github.com/user-attachments/assets/f412da89-6235-4cd1-894e-2327b3f6d5eb">
+
 
 5. **`commit message`** 를 **`"{주차} 과제{번호}/{주제}실습문제 문제{번호}"`** 에 맞춰 작성 후 **`commit changes`** 클릭  
    <p align="center">
-      <img src="https://github.com/user-attachments/assets/bd56b38c-ae93-4ab0-9917-9f1874641d2e" width="300">
+      <img width="474" alt="image" src="https://github.com/user-attachments/assets/34169d15-2060-497d-a6e5-4379bb4ab12c">
    </p>
 
 **B) base repository에 업로드**
 
 1. 상단 바에서 **`pull requests`** 클릭
 2. **`New pull request`** 클릭  <br/>
-   <img src="https://github.com/user-attachments/assets/044abc46-8615-430a-ae26-38d1295db19f">
+   <img width="1216" alt="image" src="https://github.com/user-attachments/assets/f708c684-48ee-433d-ae37-d802973981d3">
+
 
 3. **`create pull request`** 클릭<br/>
-   <img src="https://github.com/user-attachments/assets/1dbe0204-c251-4302-b97c-cff5f83c021e">
+   <img width="1200" alt="image" src="https://github.com/user-attachments/assets/783abb96-cf63-4239-bdb6-fe28ba55b6e4">
 
 4. **`Add a title`** 은 변경하지 않고 **`Add a description`** 에 질문을 적어 **`create pull request`** 클릭  
-   <img src="https://github.com/user-attachments/assets/409afdbc-be4e-4d30-97d6-4a6d661dd05e" width="600">
+   <img width="826" alt="image" src="https://github.com/user-attachments/assets/7642a0c9-e005-46aa-b71b-878a3fc43598">
+
 
 5. [옵션] 아래와 같이 **`merge pull request`** 와 **`confirm merge`** 클릭  
-   <img src="https://github.com/user-attachments/assets/1429943e-bbd7-499a-8d59-d9ad622da2a8" width="600">
-   <img src="https://github.com/user-attachments/assets/4d2ec40b-ac5c-473e-b980-7eef3510d623" width="600">
+   <img width="881" alt="image" src="https://github.com/user-attachments/assets/4ac1f1e7-3173-4823-81d3-022238cc597f">
+   <img width="879" alt="image" src="https://github.com/user-attachments/assets/e67395e5-f96a-4fef-a40d-8607b260f718">
+
